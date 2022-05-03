@@ -7,7 +7,7 @@ Before you can analyze data, you first have to acquire it. This course teaches y
 [Amany Mahfouz](https://www.datacamp.com/instructors/amfz)
 
 ## Learning Plataform
-[DataCamp](https://www.pluralsight.com/)
+[DataCamp](https://app.datacamp.com/)
 
 ## What I have done?
 - Importing Data from Flat Files
